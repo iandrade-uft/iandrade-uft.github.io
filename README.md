@@ -15,7 +15,7 @@ Bem-vindo ao repositório do site pessoal de Iandrade! Este repositório contém
 Você pode visualizar o site acessando [iandrade-uft.github.io](https://iandrade-uft.github.io).
 
 ## Tecnologias Utilizadas
-_ **LaTeX**
+- **LaTeX**
 - **Python**
 - **R**
 - **HTML**
